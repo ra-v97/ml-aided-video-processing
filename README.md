@@ -1,4 +1,4 @@
-# ml-aided-video-processing
+# ML Aided Video Processing
 This repository contains learning materials for video processing with neural networks usage. 
 
 ## Project description
@@ -10,4 +10,4 @@ In this repository some additional materials are present for  better topic expla
 
 ## Content overview
 ### Object detection
-Tutorial on how to perform object detection with TensorFlow Lite based on live images readed directly from webcam. Following steps are presented on how to read video from webcam, using trained model with TensorFlow Lite and show detected objects on live images. Tutorial is based on ... model, which description is available here: ... .
+Tutorial on how to perform object detection with TensorFlow Lite based on live images readed directly from webcam. Following steps are presented on how to read video from webcam, using trained model with TensorFlow Lite and show detected objects on live images.
